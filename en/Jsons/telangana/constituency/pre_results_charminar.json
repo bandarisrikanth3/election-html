@@ -1,0 +1,7 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"AIMM","pattern":"","type":"number"},
+	         {"id":"","label":"AIMM","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":6,"f":null},{"v":"AIMM - 6","f":null},{"v":5,"f":null},{"v":"IND - 5","f":null}]}]}

@@ -1,0 +1,13 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"INC(I)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(I)","role":"annotation","type":"string"},{"id":"","label":"CPM","pattern":"","type":"number"},
+	         {"id":"","label":"CPM","role":"annotation","type":"string"},{"id":"","label":"JNP","pattern":"","type":"number"},
+	         {"id":"","label":"JNP","role":"annotation","type":"string"},{"id":"","label":"TRS","pattern":"","type":"number"},
+	         {"id":"","label":"TRS","role":"annotation","type":"string"},{"id":"","label":"PDF","pattern":"","type":"number"},
+	         {"id":"","label":"PDF","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":36,"f":null},{"v":"Congress - 36","f":null},{"v":17,"f":null},{"v":"TDP - 17","f":null},{"v":4,"f":null},{"v":"IND - 4","f":null},{"v":4,"f":null},{"v":"INC(I) - 4","f":null},{"v":3,"f":null},{"v":"CPM - 3","f":null},{"v":3,"f":null},{"v":"JNP - 3","f":null},{"v":1,"f":null},{"v":"TRS - 1","f":null},{"v":1,"f":null},{"v":"PDF - 1","f":null}]}]}

@@ -1,0 +1,17 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"AIMM","pattern":"","type":"number"},
+	         {"id":"","label":"AIMM","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"BJP","pattern":"","type":"number"},
+	         {"id":"","label":"BJP","role":"annotation","type":"string"},{"id":"","label":"INC(I)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(I)","role":"annotation","type":"string"},{"id":"","label":"JNP","pattern":"","type":"number"},
+	         {"id":"","label":"JNP","role":"annotation","type":"string"},{"id":"","label":"TRS","pattern":"","type":"number"},
+	         {"id":"","label":"TRS","role":"annotation","type":"string"},{"id":"","label":"MBT","pattern":"","type":"number"},
+	         {"id":"","label":"MBT","role":"annotation","type":"string"},{"id":"","label":"TJS","pattern":"","type":"number"},
+	         {"id":"","label":"TJS","role":"annotation","type":"string"},{"id":"","label":"SSP","pattern":"","type":"number"},
+	         {"id":"","label":"SSP","role":"annotation","type":"string"},{"id":"","label":"PDF","pattern":"","type":"number"},
+	         {"id":"","label":"PDF","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":55,"f":null},{"v":"Congress - 55","f":null},{"v":29,"f":null},{"v":"AIMM - 29","f":null},{"v":26,"f":null},{"v":"TDP - 26","f":null},{"v":20,"f":null},{"v":"IND - 20","f":null},{"v":18,"f":null},{"v":"BJP - 18","f":null},{"v":10,"f":null},{"v":"INC(I) - 10","f":null},{"v":6,"f":null},{"v":"JNP - 6","f":null},{"v":3,"f":null},{"v":"TRS - 3","f":null},{"v":2,"f":null},{"v":"MBT - 2","f":null},{"v":1,"f":null},{"v":"TJS - 1","f":null},{"v":1,"f":null},{"v":"SSP - 1","f":null},{"v":1,"f":null},{"v":"PDF - 1","f":null}]}]}

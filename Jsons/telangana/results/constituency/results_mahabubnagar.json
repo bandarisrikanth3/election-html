@@ -1,0 +1,7 @@
+{
+				  "cols": [
+				        {"id":"","label":"Party","pattern":"","type":"string"},
+				        {"id":"","label":"Seats","pattern":"","type":"number"},				 
+				        {"id":"","label":"Seats","role":"annotation","type":"string"}				 
+				      ],
+				  "rows": [{"c":[{"v":"TRS","f":null},{"v":86474,"f":null},{"v":"86474","f":null}]},{"c":[{"v":"TDP","f":null},{"v":28699,"f":null},{"v":"28699","f":null}]},{"c":[{"v":"BJP","f":null},{"v":5945,"f":null},{"v":"5945","f":null}]},{"c":[{"v":"BLP","f":null},{"v":21664,"f":null},{"v":"21664","f":null}]},{"c":[{"v":"TJS","f":null},{"v":11633,"f":null},{"v":"11633","f":null}]}]}

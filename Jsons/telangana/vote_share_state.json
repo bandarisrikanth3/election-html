@@ -1,0 +1,6 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},{"id":"","label":"","pattern":"","type":"number"}
+				  ],
+				  "rows": [
+				  {"c":[{"v":"టీఆర్‌ఎస్‌","f":null},{"v":52.94,"f":null}]},{"c":[{"v":"కాంగ్రెస్","f":null},{"v":17.65,"f":null}]},{"c":[{"v":"టీడీపీ","f":null},{"v":12.61,"f":null}]},{"c":[{"v":"ఎంఐఎం","f":null},{"v":5.88,"f":null}]},{"c":[{"v":"బీజేపీ","f":null},{"v":4.20,"f":null}]}]}

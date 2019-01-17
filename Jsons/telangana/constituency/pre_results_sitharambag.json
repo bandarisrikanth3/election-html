@@ -1,0 +1,7 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":2,"f":null},{"v":"ఇతరులు - 2","f":null},{"v":1,"f":null},{"v":"కాంగ్రెస్ - 1","f":null}]}]}

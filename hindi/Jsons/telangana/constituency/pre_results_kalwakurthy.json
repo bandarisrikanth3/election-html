@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"JNP","pattern":"","type":"number"},
+	         {"id":"","label":"JNP","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":11,"f":null},{"v":"Congress - 11","f":null},{"v":3,"f":null},{"v":"IND - 3","f":null},{"v":2,"f":null},{"v":"TDP - 2","f":null},{"v":2,"f":null},{"v":"JNP - 2","f":null}]}]}

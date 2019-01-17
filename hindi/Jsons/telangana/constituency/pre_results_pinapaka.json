@@ -1,0 +1,7 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"YSRCP","pattern":"","type":"number"},
+	         {"id":"","label":"YSRCP","role":"annotation","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":1,"f":null},{"v":"YSRCP - 1","f":null},{"v":1,"f":null},{"v":"Congress - 1","f":null}]}]}

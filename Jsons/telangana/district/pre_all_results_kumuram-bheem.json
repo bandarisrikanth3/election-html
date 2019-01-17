@@ -1,0 +1,13 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"టీఆర్‌ఎస్‌","pattern":"","type":"number"},
+	         {"id":"","label":"టీఆర్‌ఎస్‌","role":"annotation","type":"string"},{"id":"","label":"సీపీఐ","pattern":"","type":"number"},
+	         {"id":"","label":"సీపీఐ","role":"annotation","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"బీఎస్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"బీఎస్పీ","role":"annotation","type":"string"},{"id":"","label":"పీసీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"పీసీపీ","role":"annotation","type":"string"},{"id":"","label":"ఎస్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"ఎస్పీ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":16,"f":null},{"v":"కాంగ్రెస్ - 16","f":null},{"v":5,"f":null},{"v":"టీడీపీ - 5","f":null},{"v":3,"f":null},{"v":"టీఆర్‌ఎస్‌ - 3","f":null},{"v":3,"f":null},{"v":"సీపీఐ - 3","f":null},{"v":2,"f":null},{"v":"ఇతరులు - 2","f":null},{"v":1,"f":null},{"v":"బీఎస్పీ - 1","f":null},{"v":1,"f":null},{"v":"పీసీపీ - 1","f":null},{"v":1,"f":null},{"v":"ఎస్పీ - 1","f":null}]}]}

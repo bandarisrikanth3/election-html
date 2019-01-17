@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"AIMM","pattern":"","type":"number"},
+	         {"id":"","label":"AIMM","role":"annotation","type":"string"},{"id":"","label":"BJP","pattern":"","type":"number"},
+	         {"id":"","label":"BJP","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"INC(O)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(O)","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":5,"f":null},{"v":"AIMM - 5","f":null},{"v":3,"f":null},{"v":"BJP - 3","f":null},{"v":1,"f":null},{"v":"IND - 1","f":null},{"v":1,"f":null},{"v":"INC(O) - 1","f":null}]}]}

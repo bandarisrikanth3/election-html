@@ -1,0 +1,14 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"INC","pattern":"","type":"number"},
+	         {"id":"","label":"INC","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"TRS","pattern":"","type":"number"},
+	         {"id":"","label":"TRS","role":"annotation","type":"string"},{"id":"","label":"INC(O)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(O)","role":"annotation","type":"string"},{"id":"","label":"BJP","pattern":"","type":"number"},
+	         {"id":"","label":"BJP","role":"annotation","type":"string"},{"id":"","label":"SDU","pattern":"","type":"number"},
+	         {"id":"","label":"SDU","role":"annotation","type":"string"},{"id":"","label":"JNP","pattern":"","type":"number"},
+	         {"id":"","label":"JNP","role":"annotation","type":"string"},{"id":"","label":"","pattern":"","type":"number"},
+	         {"id":"","label":"","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":18,"f":null},{"v":"INC - 18","f":null},{"v":16,"f":null},{"v":"TDP - 16","f":null},{"v":6,"f":null},{"v":"IND - 6","f":null},{"v":4,"f":null},{"v":"TRS - 4","f":null},{"v":3,"f":null},{"v":"INC(O) - 3","f":null},{"v":1,"f":null},{"v":"BJP - 1","f":null},{"v":1,"f":null},{"v":"SDU - 1","f":null},{"v":1,"f":null},{"v":"JNP - 1","f":null},{"v":1,"f":null},{"v":" - 1","f":null}]}]}

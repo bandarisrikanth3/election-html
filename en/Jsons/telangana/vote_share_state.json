@@ -1,0 +1,6 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},{"id":"","label":"","pattern":"","type":"number"}
+				  ],
+				  "rows": [
+				  {"c":[{"v":"TRS","f":null},{"v":52.94,"f":null}]},{"c":[{"v":"INC","f":null},{"v":17.65,"f":null}]},{"c":[{"v":"TDP","f":null},{"v":12.61,"f":null}]},{"c":[{"v":"AIMIM","f":null},{"v":5.88,"f":null}]},{"c":[{"v":"BJP","f":null},{"v":4.20,"f":null}]}]}

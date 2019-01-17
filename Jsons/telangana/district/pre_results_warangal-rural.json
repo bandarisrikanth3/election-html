@@ -1,0 +1,9 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+				         {"id":"","label":"టీడీపీ","role":"annotation","type":"number"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+				         {"id":"","label":"ఇతరులు","role":"annotation","type":"number"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null}]}]}

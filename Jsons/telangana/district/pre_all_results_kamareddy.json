@@ -1,0 +1,12 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"టీఆర్‌ఎస్‌","pattern":"","type":"number"},
+	         {"id":"","label":"టీఆర్‌ఎస్‌","role":"annotation","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"ఐ ఎన్ సీ (ఐ)","pattern":"","type":"number"},
+	         {"id":"","label":"ఐ ఎన్ సీ (ఐ)","role":"annotation","type":"string"},{"id":"","label":"ఎస్ టీ పీ ఎస్","pattern":"","type":"number"},
+	         {"id":"","label":"ఎస్ టీ పీ ఎస్","role":"annotation","type":"string"},{"id":"","label":"ఆర్‌పిఐ","pattern":"","type":"number"},
+	         {"id":"","label":"ఆర్‌పిఐ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":14,"f":null},{"v":"టీడీపీ - 14","f":null},{"v":14,"f":null},{"v":"కాంగ్రెస్ - 14","f":null},{"v":7,"f":null},{"v":"టీఆర్‌ఎస్‌ - 7","f":null},{"v":4,"f":null},{"v":"ఇతరులు - 4","f":null},{"v":3,"f":null},{"v":"ఐ ఎన్ సీ (ఐ) - 3","f":null},{"v":1,"f":null},{"v":"ఎస్ టీ పీ ఎస్ - 1","f":null},{"v":1,"f":null},{"v":"ఆర్‌పిఐ - 1","f":null}]}]}

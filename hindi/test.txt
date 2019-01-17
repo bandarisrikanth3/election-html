@@ -1,0 +1,29 @@
+  |  | 
+ 
+
+
+
+
+
+
+
+ 20004
+ 
+ 
+ 
+ 
+ // For Desktop
+ // Add
+ 
+ INSERT INTO `permission` (`empid`, `menu`, `title`, `controller`, `model`, `modelname`, `status`, `morder`, `pcode`, `mobile`) VALUES ('404', 'Editorial', 'Eod', 'editorial', 'addEod', 'Add', '1', '1', 'edt_eod_add', '0');
+ INSERT INTO `permission` (`empid`, `menu`, `title`, `controller`, `model`, `modelname`, `status`, `morder`, `pcode`, `mobile`) VALUES ('404', 'Editorial', 'Eod', 'editorial', 'viewEod', 'View', '1', '2', 'edt_eod_view', '0');
+ 
+
+INSERT INTO `permission` (`empid`, `menu`, `title`, `controller`, `model`, `modelname`, `status`, `morder`, `pcode`, `mobile`) VALUES ('20004', 'Editorial', 'Eod', 'editorial', 'mob_addEod', 'Add', '1', '1', 'edt_meod_add', '1');
+INSERT INTO `permission` (`empid`, `menu`, `title`, `controller`, `model`, `modelname`, `status`, `morder`, `pcode`, `mobile`) VALUES ('20004', 'Editorial', 'Eod', 'editorial', 'mob_viewEod', 'Add', '1', '2', 'edt_meod_view', '1');
+
+
+// Above for Movile
+
+// View
+

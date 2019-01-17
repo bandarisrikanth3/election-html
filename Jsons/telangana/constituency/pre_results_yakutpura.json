@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"ఎమ్‌ఐఎం","pattern":"","type":"number"},
+	         {"id":"","label":"ఎమ్‌ఐఎం","role":"annotation","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"ఎమ్‌బీటీ","pattern":"","type":"number"},
+	         {"id":"","label":"ఎమ్‌బీటీ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":5,"f":null},{"v":"ఎమ్‌ఐఎం - 5","f":null},{"v":5,"f":null},{"v":"ఇతరులు - 5","f":null},{"v":2,"f":null},{"v":"కాంగ్రెస్ - 2","f":null},{"v":1,"f":null},{"v":"ఎమ్‌బీటీ - 1","f":null}]}]}

@@ -1,0 +1,10 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"Congress","pattern":"","type":"number"},
+				         {"id":"","label":"Congress","role":"annotation","type":"number"},{"id":"","label":"YSRCP","pattern":"","type":"number"},
+				         {"id":"","label":"YSRCP","role":"annotation","type":"number"},{"id":"","label":"TDP","pattern":"","type":"number"},
+				         {"id":"","label":"TDP","role":"annotation","type":"number"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":3,"f":null},{"v":3,"f":null},{"v":2,"f":null},{"v":2,"f":null},{"v":1,"f":null},{"v":1,"f":null}]}]}

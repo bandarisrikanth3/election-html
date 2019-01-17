@@ -1,0 +1,11 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"CPI","pattern":"","type":"number"},
+	         {"id":"","label":"CPI","role":"annotation","type":"string"},{"id":"","label":"PDF","pattern":"","type":"number"},
+	         {"id":"","label":"PDF","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"SP","pattern":"","type":"number"},
+	         {"id":"","label":"SP","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":6,"f":null},{"v":"IND - 6","f":null},{"v":4,"f":null},{"v":"Congress - 4","f":null},{"v":2,"f":null},{"v":"CPI - 2","f":null},{"v":2,"f":null},{"v":"PDF - 2","f":null},{"v":1,"f":null},{"v":"TDP - 1","f":null},{"v":1,"f":null},{"v":"SP - 1","f":null}]}]}

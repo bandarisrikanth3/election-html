@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"INC(I)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(I)","role":"annotation","type":"string"},{"id":"","label":"PSP","pattern":"","type":"number"},
+	         {"id":"","label":"PSP","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":9,"f":null},{"v":"Congress - 9","f":null},{"v":4,"f":null},{"v":"TDP - 4","f":null},{"v":1,"f":null},{"v":"INC(I) - 1","f":null},{"v":1,"f":null},{"v":"PSP - 1","f":null}]}]}

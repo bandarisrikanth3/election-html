@@ -1,0 +1,11 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"ఎస్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"ఎస్పీ","role":"annotation","type":"string"},{"id":"","label":"ఐ ఎన్ సీ (ఐ)","pattern":"","type":"number"},
+	         {"id":"","label":"ఐ ఎన్ సీ (ఐ)","role":"annotation","type":"string"},{"id":"","label":"జేఎన్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"జేఎన్పీ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":6,"f":null},{"v":"కాంగ్రెస్ - 6","f":null},{"v":3,"f":null},{"v":"ఇతరులు - 3","f":null},{"v":2,"f":null},{"v":"టీడీపీ - 2","f":null},{"v":1,"f":null},{"v":"ఎస్పీ - 1","f":null},{"v":1,"f":null},{"v":"ఐ ఎన్ సీ (ఐ) - 1","f":null},{"v":1,"f":null},{"v":"జేఎన్పీ - 1","f":null}]}]}

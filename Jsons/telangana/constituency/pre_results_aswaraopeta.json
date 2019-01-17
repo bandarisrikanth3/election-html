@@ -1,0 +1,7 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"వైఎస్సార్‌సీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"వైఎస్సార్‌సీపీ","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":1,"f":null},{"v":"వైఎస్సార్‌సీపీ - 1","f":null},{"v":1,"f":null},{"v":"కాంగ్రెస్ - 1","f":null}]}]}

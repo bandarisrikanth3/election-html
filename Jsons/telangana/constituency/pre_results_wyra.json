@@ -1,0 +1,7 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"వైఎస్సార్‌సీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"వైఎస్సార్‌సీపీ","role":"annotation","type":"string"},{"id":"","label":"సీపీఐ","pattern":"","type":"number"},
+	         {"id":"","label":"సీపీఐ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":1,"f":null},{"v":"వైఎస్సార్‌సీపీ - 1","f":null},{"v":1,"f":null},{"v":"సీపీఐ - 1","f":null}]}]}

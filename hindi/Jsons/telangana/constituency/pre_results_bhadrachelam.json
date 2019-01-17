@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"CPM","pattern":"","type":"number"},
+	         {"id":"","label":"CPM","role":"annotation","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"CPI","pattern":"","type":"number"},
+	         {"id":"","label":"CPI","role":"annotation","type":"string"},{"id":"","label":"KMPP","pattern":"","type":"number"},
+	         {"id":"","label":"KMPP","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":8,"f":null},{"v":"CPM - 8","f":null},{"v":4,"f":null},{"v":"Congress - 4","f":null},{"v":3,"f":null},{"v":"CPI - 3","f":null},{"v":2,"f":null},{"v":"KMPP - 2","f":null}]}]}

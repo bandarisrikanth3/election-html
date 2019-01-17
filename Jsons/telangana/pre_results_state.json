@@ -1,0 +1,12 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"టీఆర్‌ఎస్‌","pattern":"","type":"number"},
+				         {"id":"","label":"టీఆర్‌ఎస్‌","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+				         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+				         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"ఎమ్‌ఐఎం","pattern":"","type":"number"},
+				         {"id":"","label":"ఎమ్‌ఐఎం","role":"annotation","type":"string"},{"id":"","label":"బీజేపీ","pattern":"","type":"number"},
+				         {"id":"","label":"బీజేపీ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":63,"f":null},{"v":"టీఆర్‌ఎస్‌-63","f":null},{"v":21,"f":null},{"v":"కాంగ్రెస్-21","f":null},{"v":15,"f":null},{"v":"టీడీపీ-15","f":null},{"v":7,"f":null},{"v":"ఎమ్‌ఐఎం-7","f":null},{"v":5,"f":null},{"v":"బీజేపీ-5","f":null}]}]}

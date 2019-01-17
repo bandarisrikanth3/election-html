@@ -1,0 +1,9 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"BJP","pattern":"","type":"number"},
+	         {"id":"","label":"BJP","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"INC(I)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(I)","role":"annotation","type":"string"},{"id":"","label":"JNP","pattern":"","type":"number"},
+	         {"id":"","label":"JNP","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":4,"f":null},{"v":"BJP - 4","f":null},{"v":3,"f":null},{"v":"TDP - 3","f":null},{"v":1,"f":null},{"v":"INC(I) - 1","f":null},{"v":1,"f":null},{"v":"JNP - 1","f":null}]}]}

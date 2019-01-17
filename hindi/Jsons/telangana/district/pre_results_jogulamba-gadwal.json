@@ -1,0 +1,8 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"Congress","pattern":"","type":"number"},
+				         {"id":"","label":"Congress","role":"annotation","type":"number"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":2,"f":null},{"v":2,"f":null}]}]}

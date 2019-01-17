@@ -1,0 +1,10 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"టీఆర్‌ఎస్‌","pattern":"","type":"number"},
+				         {"id":"","label":"టీఆర్‌ఎస్‌","role":"annotation","type":"number"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+				         {"id":"","label":"టీడీపీ","role":"annotation","type":"number"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+				         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"number"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":3,"f":null},{"v":3,"f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null}]}]}

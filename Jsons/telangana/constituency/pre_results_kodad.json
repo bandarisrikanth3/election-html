@@ -1,0 +1,8 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"జేఎన్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"జేఎన్పీ","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":5,"f":null},{"v":"టీడీపీ - 5","f":null},{"v":3,"f":null},{"v":"కాంగ్రెస్ - 3","f":null},{"v":1,"f":null},{"v":"జేఎన్పీ - 1","f":null}]}]}

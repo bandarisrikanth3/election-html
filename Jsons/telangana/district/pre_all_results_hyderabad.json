@@ -1,0 +1,17 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"ఎమ్‌ఐఎం","pattern":"","type":"number"},
+	         {"id":"","label":"ఎమ్‌ఐఎం","role":"annotation","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"ఇతరులు","pattern":"","type":"number"},
+	         {"id":"","label":"ఇతరులు","role":"annotation","type":"string"},{"id":"","label":"బీజేపీ","pattern":"","type":"number"},
+	         {"id":"","label":"బీజేపీ","role":"annotation","type":"string"},{"id":"","label":"ఐ ఎన్ సీ (ఐ)","pattern":"","type":"number"},
+	         {"id":"","label":"ఐ ఎన్ సీ (ఐ)","role":"annotation","type":"string"},{"id":"","label":"జేఎన్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"జేఎన్పీ","role":"annotation","type":"string"},{"id":"","label":"టీఆర్‌ఎస్‌","pattern":"","type":"number"},
+	         {"id":"","label":"టీఆర్‌ఎస్‌","role":"annotation","type":"string"},{"id":"","label":"ఎమ్‌బీటీ","pattern":"","type":"number"},
+	         {"id":"","label":"ఎమ్‌బీటీ","role":"annotation","type":"string"},{"id":"","label":"టీజేఎస్‌","pattern":"","type":"number"},
+	         {"id":"","label":"టీజేఎస్‌","role":"annotation","type":"string"},{"id":"","label":"ఎస్ఎస్పీ","pattern":"","type":"number"},
+	         {"id":"","label":"ఎస్ఎస్పీ","role":"annotation","type":"string"},{"id":"","label":"పీడీఎఫ్‌","pattern":"","type":"number"},
+	         {"id":"","label":"పీడీఎఫ్‌","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":55,"f":null},{"v":"కాంగ్రెస్ - 55","f":null},{"v":29,"f":null},{"v":"ఎమ్‌ఐఎం - 29","f":null},{"v":26,"f":null},{"v":"టీడీపీ - 26","f":null},{"v":20,"f":null},{"v":"ఇతరులు - 20","f":null},{"v":18,"f":null},{"v":"బీజేపీ - 18","f":null},{"v":10,"f":null},{"v":"ఐ ఎన్ సీ (ఐ) - 10","f":null},{"v":6,"f":null},{"v":"జేఎన్పీ - 6","f":null},{"v":3,"f":null},{"v":"టీఆర్‌ఎస్‌ - 3","f":null},{"v":2,"f":null},{"v":"ఎమ్‌బీటీ - 2","f":null},{"v":1,"f":null},{"v":"టీజేఎస్‌ - 1","f":null},{"v":1,"f":null},{"v":"ఎస్ఎస్పీ - 1","f":null},{"v":1,"f":null},{"v":"పీడీఎఫ్‌ - 1","f":null}]}]}

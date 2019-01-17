@@ -1,0 +1,8 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"కాంగ్రెస్","pattern":"","type":"number"},
+	         {"id":"","label":"కాంగ్రెస్","role":"annotation","type":"string"},{"id":"","label":"టీడీపీ","pattern":"","type":"number"},
+	         {"id":"","label":"టీడీపీ","role":"annotation","type":"string"},{"id":"","label":"ఐ ఎన్ సీ (ఐ)","pattern":"","type":"number"},
+	         {"id":"","label":"ఐ ఎన్ సీ (ఐ)","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":11,"f":null},{"v":"కాంగ్రెస్ - 11","f":null},{"v":1,"f":null},{"v":"టీడీపీ - 1","f":null},{"v":1,"f":null},{"v":"ఐ ఎన్ సీ (ఐ) - 1","f":null}]}]}

@@ -1,0 +1,9 @@
+{
+				  "cols": [
+				        {"id":"","label":"Report","pattern":"","type":"string"},
+				 {"id":"","label":"TDP","pattern":"","type":"number"},
+				         {"id":"","label":"TDP","role":"annotation","type":"number"},{"id":"","label":"IND","pattern":"","type":"number"},
+				         {"id":"","label":"IND","role":"annotation","type":"number"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"2014","f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null},{"v":1,"f":null}]}]}

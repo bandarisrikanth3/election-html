@@ -1,0 +1,7 @@
+{
+				  "cols": [
+				        {"id":"","label":"Party","pattern":"","type":"string"},
+				        {"id":"","label":"Seats","pattern":"","type":"number"},				 
+				        {"id":"","label":"Seats","role":"annotation","type":"string"}				 
+				      ],
+				  "rows": [{"c":[{"v":"TRS","f":null},{"v":106792,"f":null},{"v":"106792","f":null}]},{"c":[{"v":"Congress","f":null},{"v":57880,"f":null},{"v":"57880","f":null}]},{"c":[{"v":"BJP","f":null},{"v":1144,"f":null},{"v":"1144","f":null}]},{"c":[{"v":"BLP","f":null},{"v":219,"f":null},{"v":"219","f":null}]},{"c":[{"v":"IND","f":null},{"v":2334,"f":null},{"v":"2334","f":null}]}]}

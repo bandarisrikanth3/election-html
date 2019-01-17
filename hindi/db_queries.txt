@@ -1,0 +1,32 @@
+
+ // Pre_results
+ 
+ insert into pre_results(year,month,stateid,distid,constcode,consttype,partycode,candidatecode,status,noofvotes,type,tel_statename,eng_statename,hindi_statename,tel_distname,eng_distname,hindi_distname,tel_constname,eng_constname,hindi_constname,tel_partyname,eng_partyname,hindi_partyname,tel_candidatename,eng_candidatename,hindi_candidatename,totalvotes) values ('2009','09','2','1','2','Gen','2','1','1','10','MLA','Telangana','Telangana','Telangana','Hyderabad','Hyderabad','Hyderabad','Malakpet','Malakpet','Malakpet','BJP','BJP','BJP','bjp2','bjp2','bjp2','10');
+ insert into pre_results(year,month,stateid,distid,constcode,consttype,partycode,candidatecode,status,noofvotes,type,tel_statename,eng_statename,hindi_statename,tel_distname,eng_distname,hindi_distname,tel_constname,eng_constname,hindi_constname,tel_partyname,eng_partyname,hindi_partyname,tel_candidatename,eng_candidatename,hindi_candidatename,totalvotes) values ('2009','09','2','2','1','Gen','1','3','1','10','MLA','Telangana','Telangana','Telangana','Karimnagar','Karimnagar','Karimnagar','Husnabad','Husnabad','Husnabad','TRS','TRS','TRS','trs2','trs2','trs2','10');
+ 
+ 
+ // pre_results_view
+ 
+ drop view pre_results_view_state;
+ drop view pre_results_view_district;
+ drop view pre_results_view;
+ 
+   
+   // pre_results_view_state
+  create view pre_results_view_state as select (select engname from state where id = a.stateid)eng_statename,(select engname from district where id = a.distid )eng_distname,(select engname from constituency where id = a.constid)eng_constname,(select shortname from parties where id=a.partycode)eng_shortname,(select telname from parties where id=a.partycode)tel_shortname,(select engname from parties where id=a.partycode)eng_partyname,(select engname from candidates where id=a.candidatecode)eng_candidatename,a.year,count(a.partycode)seats,(select color_codes from parties where id = a.partycode)color_codes,a.status from pre_results a where a.status = 1 group by a.stateid,a.partycode,a.year order by a.year desc,seats desc;
+  
+	 // pre_results_view
+  create view pre_results_view as select (select engname from state where id = a.stateid)eng_statename,(select engname from district where id = a.distid )eng_distname,(select engname from constituency where id = a.constid)eng_constname,(select shortname from parties where id=a.partycode)eng_shortname,(select telname from parties where id=a.partycode)tel_shortname,(select engname from parties where id=a.partycode)eng_partyname,(select engname from candidates where id=a.candidatecode)eng_candidatename,a.year,count(a.partycode)seats,(select color_codes from parties where id = a.partycode)color_codes,a.status from pre_results a where a.status = 1 group by a.constid,a.partycode,a.year order by a.year desc,seats desc;
+  
+    // pre_results_view_district
+   create view pre_results_view_district as select (select engname from state where id = a.stateid)eng_statename,(select engname from district where id = a.distid )eng_distname,(select engname from constituency where id = a.constid)eng_constname,(select shortname from parties where id=a.partycode)eng_shortname,(select telname from parties where id=a.partycode)tel_shortname,(select engname from parties where id=a.partycode)eng_partyname,(select engname from candidates where id=a.candidatecode)eng_candidatename,a.year,count(a.partycode)seats,(select color_codes from parties where id = a.partycode)color_codes,a.status from pre_results a where a.status = 1 group by a.distid,a.partycode,a.year order by a.year desc,seats desc;
+
+
+export data
+=============
+select a.id,a.constcode,a.level,a.type,a.telname,(select telname from district where id=a.distid) as district ,a.engname,a.noofvoters,a.malevoters,a.femalevoters,a.hindiname,a.shortname,a.stateid,a.distid,a.teldescription,a.engdescription,a.hindidescription,a.scvoters,a.stvoters,a.engdistrictname,a.pconstcode,a.status from constituency a order by a.engname into outfile '/tmp/const-03nov.csv' fields terminated by ',' enclosed by '"' lines terminated by '\r\n';
+
+
+select a.id,a.year,a.month,(select telname from district where id=a.distid) as district,(select telname from constituency where id=a.constid) as constituency,(select telname from candidates where id=a.candidatecode) as candidate,a.noofvotes,a.totnoofvotes,a.status,a.stateid,a.distid,a.constid,a.constcode,a.consttype,a.partycode,a.candidatecode,a.type
+,a.telugu_state_name,a.english_state_name,a.hindi_state_name,a.telugu_dist_name,a.english_dist_name,a.hindi_dist_name,a.telugu_const_name,a.english_const_name,a.hindi_const_name,a.telugu_party_name,a.english_party_name,a.hindi_party_name,a.telugu_candidate_name,a.english_candidate_name,a.hindi_candidate_name,a.totalvotes,a.voteshare,a.party_shortname from pre_results a where stateid=2 order by distid,constid,year,status into outfile '/tmp/preresults-03nov.csv' fields terminated by ',' enclosed by '"' lines terminated by '\r\n';
+------------------------------------------------------------------------------------------------------------------------------

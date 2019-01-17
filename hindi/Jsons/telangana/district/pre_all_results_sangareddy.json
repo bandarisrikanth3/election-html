@@ -1,0 +1,13 @@
+{
+				  "cols": [{"id":"","label":"","pattern":"","type":"string"},{"id":"","label":"Congress","pattern":"","type":"number"},
+	         {"id":"","label":"Congress","role":"annotation","type":"string"},{"id":"","label":"TDP","pattern":"","type":"number"},
+	         {"id":"","label":"TDP","role":"annotation","type":"string"},{"id":"","label":"IND","pattern":"","type":"number"},
+	         {"id":"","label":"IND","role":"annotation","type":"string"},{"id":"","label":"TRS","pattern":"","type":"number"},
+	         {"id":"","label":"TRS","role":"annotation","type":"string"},{"id":"","label":"INC(I)","pattern":"","type":"number"},
+	         {"id":"","label":"INC(I)","role":"annotation","type":"string"},{"id":"","label":"BJP","pattern":"","type":"number"},
+	         {"id":"","label":"BJP","role":"annotation","type":"string"},{"id":"","label":"SWP","pattern":"","type":"number"},
+	         {"id":"","label":"SWP","role":"annotation","type":"string"},{"id":"","label":"SCF","pattern":"","type":"number"},
+	         {"id":"","label":"SCF","role":"annotation","type":"string"}
+				      ],
+				  "rows": [
+				  {"c":[{"v":"","f":null},{"v":34,"f":null},{"v":"Congress - 34","f":null},{"v":8,"f":null},{"v":"TDP - 8","f":null},{"v":6,"f":null},{"v":"IND - 6","f":null},{"v":3,"f":null},{"v":"TRS - 3","f":null},{"v":3,"f":null},{"v":"INC(I) - 3","f":null},{"v":1,"f":null},{"v":"BJP - 1","f":null},{"v":1,"f":null},{"v":"SWP - 1","f":null},{"v":1,"f":null},{"v":"SCF - 1","f":null}]}]}
